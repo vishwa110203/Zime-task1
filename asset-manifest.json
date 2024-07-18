@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Zime-task1/static/css/main.96c1e4c5.css",
-    "main.js": "/Zime-task1/static/js/main.1d56569d.js",
+    "main.js": "/Zime-task1/static/js/main.b2fc11b3.js",
     "static/js/453.f0b6492e.chunk.js": "/Zime-task1/static/js/453.f0b6492e.chunk.js",
     "index.html": "/Zime-task1/index.html",
     "main.96c1e4c5.css.map": "/Zime-task1/static/css/main.96c1e4c5.css.map",
-    "main.1d56569d.js.map": "/Zime-task1/static/js/main.1d56569d.js.map",
+    "main.b2fc11b3.js.map": "/Zime-task1/static/js/main.b2fc11b3.js.map",
     "453.f0b6492e.chunk.js.map": "/Zime-task1/static/js/453.f0b6492e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96c1e4c5.css",
-    "static/js/main.1d56569d.js"
+    "static/js/main.b2fc11b3.js"
   ]
 }
