@@ -1,9 +1,11 @@
 // src/App.js
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Table, Tag, Input } from 'antd'
+import { Table, Tag, Input, Row, Col } from 'antd'
 import 'antd/dist/reset.css'; 
 
+
+const { Search } = Input;
 
 function DataLoader() {
 
@@ -164,12 +166,17 @@ function DataLoader() {
 
     return (
     <div style={{ padding: '20px' }}>
-        <Input
-        placeholder="Search in body"
-        size="large"
-        onChange={handleSearch}
-        style={{ marginBottom: '20px' }}
-      />
+        <Row justify="center" style={{ marginBottom: '20px' }}>
+          <Col xs={24} sm={12} md={8}>
+            <Search
+            placeholder="Search body text"
+            value={searchText}
+            onChange={handleSearch}
+            enterButton
+            />
+          </Col>
+        </Row>
+    
         <Table dataSource={filteredPosts} columns={columns} onChange = {onChange}  rowKey="id" loading={loading}  pagination={{ position: ['bottomCenter'] }}/>
     </div>
     );
