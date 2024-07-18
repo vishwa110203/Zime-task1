@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.96c1e4c5.css",
-    "main.js": "/static/js/main.2ea5f082.js",
-    "static/js/453.f0b6492e.chunk.js": "/static/js/453.f0b6492e.chunk.js",
-    "index.html": "/index.html",
-    "main.96c1e4c5.css.map": "/static/css/main.96c1e4c5.css.map",
-    "main.2ea5f082.js.map": "/static/js/main.2ea5f082.js.map",
-    "453.f0b6492e.chunk.js.map": "/static/js/453.f0b6492e.chunk.js.map"
+    "main.css": "/Zime-task1/static/css/main.96c1e4c5.css",
+    "main.js": "/Zime-task1/static/js/main.1d56569d.js",
+    "static/js/453.f0b6492e.chunk.js": "/Zime-task1/static/js/453.f0b6492e.chunk.js",
+    "index.html": "/Zime-task1/index.html",
+    "main.96c1e4c5.css.map": "/Zime-task1/static/css/main.96c1e4c5.css.map",
+    "main.1d56569d.js.map": "/Zime-task1/static/js/main.1d56569d.js.map",
+    "453.f0b6492e.chunk.js.map": "/Zime-task1/static/js/453.f0b6492e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96c1e4c5.css",
-    "static/js/main.2ea5f082.js"
+    "static/js/main.1d56569d.js"
   ]
 }
